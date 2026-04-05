@@ -1,5 +1,20 @@
 Leer las instrucciones:
-    Copiar cada link en el navegador y responder las instrucciones:
+ACTIVIDAD #1: Duración 15 minutos
+    Abrir aplicación web Geogebra
+             Realizar cada item ( cada item equivale a 2 puntos )
+                       1)Dibujar punto A
+                       2)Dibujar punto B
+                       3)Dibujar punto C
+                       4)Unir punto A con B
+                       5)Unir punto B con C
+                       6)Unir punto C con A
+                       7)Dibujar bisectriz BAC
+                       8)Dibujar bisectriz ABC
+                       9)Dibujar bisectriz BCA
+                       10)Ubicar punto de intersección y colocar nombre I.
+ACTIVIDAD:  Duración 15 minutos
+
+Copiar cada link en el navegador y responder las instrucciones:
          https://wordwall.net/es/resource/38851346/l%C3%ADneas-notables-asociadas-a-un-tri%C3%A1ngulo
          https://wordwall.net/es/resource/20674366/matem%C3%A1ticas/tri%C3%A1ngulos-l%C3%ADneas-notables
          https://wordwall.net/es/resource/58092724/l%C3%ADneas-notables-asociadas-al-tri%C3%A1ngulo
